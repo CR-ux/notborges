@@ -1,11 +1,15 @@
+const markdownIt = require("markdown-it");
+const markdownItFootnote = require("markdown-it-footnote");
+
 module.exports = function (eleventyConfig) {
-  // Copy static images from intranet/images to _site/images
   eleventyConfig.addPassthroughCopy({ "intranet/images": "images" });
 
-  // Define the papers collection
   eleventyConfig.addCollection("papers", function (collection) {
     return collection.getFilteredByGlob("./intranet/papers/*.md");
   });
+
+  const md = markdownIt({ html: true }).use(markdownItFootnote);
+  eleventyConfig.setLibrary("md", md);
 
   return {
     dir: {
@@ -13,7 +17,6 @@ module.exports = function (eleventyConfig) {
       includes: "../_includes",
       output: "_site"
     },
-    // Prevent Eleventy from parsing {} in .md files
     markdownTemplateEngine: false,
     htmlTemplateEngine: "njk",
     templateFormats: ["njk", "md", "html"]
