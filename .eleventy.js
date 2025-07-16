@@ -13,6 +13,9 @@ module.exports = function (eleventyConfig) {
       includes: "../_includes",
       output: "_site"
     },
+    // Prevent Eleventy from parsing {} in .md files
+    markdownTemplateEngine: false,
+    htmlTemplateEngine: "njk",
     templateFormats: ["njk", "md", "html"]
   };
 };
