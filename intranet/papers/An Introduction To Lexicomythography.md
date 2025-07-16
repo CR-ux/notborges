@@ -1,7 +1,11 @@
 ---
-title: The Lexicomythographer's Guide To This Tragedy
+title: Foundations of Lexicomythographic Methodology
+author: Dr. Callie Rose Petal
+abstract: An introduction to the theoretical framework...
+page: 3
 layout: layout.njk
 ---
+
 ### Metacommentary
 
 We the editors wish to disclose a significant conflict of interest for the following work. In our attempts to veil, contort and redact the efforts of the Society of Lexicomythographers known as ARIA|DNE (post-schism), we have become entrenched within its very machinations. Since the release of their studies to the public has become an unavoidable inevitability, our attempts at censorship have collapsed into tautology. The authors' work below is a sufficient starting point for the general reader, though we do warn of its verbosity, metatextuality, and recursive modality of presentation. It is unclear whether the society remains subject to schism, if new sub-sects have been birthed from the papers presented herein, or if the society has disbanded altogether. On reviewing the literature, we denote numerous academic inconsistencies and contradictory sources, which themselves appear to hold the truths of the work itself-- ciphers embedded within misunderstanding of what may be termed 'literary noise'. Uncountable editions of Dictionaries penned by society members have clues that have enticed and entrapped us into a web of design parading as chaos; and having lost funding for our research into theirs, we are now faced with no choice but to present our findings to you, dear reader.  Gathered from myriad sources, but most notably, a recently discovered system of underground bookshelved caves forming a gargantuan library, you may find fragments of papers, dictionaries, and essays by Lexicomythographers, working under various pseudonyms.  

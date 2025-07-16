@@ -1,0 +1,19 @@
+---
+layout: layout.njk
+title: Journal of Lexicomythographic Studies
+---
+
+<section class="toc">
+  <h2 class="toc-title">Contents</h2>
+
+  {% for paper in collections.papers %}
+  <article class="article-entry{% if paper.data.restricted %} restricted{% endif %}">
+    <h3 class="article-title">
+      <a href="{{ paper.url }}">{{ paper.data.title }}</a>
+    </h3>
+    <p class="article-author">{{ paper.data.author }}</p>
+    <p class="article-abstract">{{ paper.data.abstract }}</p>
+    <span class="page-number">p. {{ paper.data.page or "??" }}</span>
+  </article>
+  {% endfor %}
+</section>
