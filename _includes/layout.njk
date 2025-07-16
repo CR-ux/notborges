@@ -143,6 +143,15 @@
       margin-bottom: 0.3rem;
     }
 
+    .society-link {
+      text-decoration: none;
+    }
+
+    .society-link:hover .society-seal {
+      border-color: var(--shadow);
+      background: var(--highlight);
+      transition: all 0.3s ease;
+    }
     .article-author {
       font-style: italic;
       color: var(--faded-ink);
@@ -233,7 +242,10 @@
 <body>
   <div class="container">
     <header class="header">
-      <div class="society-seal">SOL<br>EST</div>
+    <a href="/" class="society-link">
+      <div class="society-seal">not<br>Borges</div>
+</a>
+
       <h1 class="journal-title">{{ title }}</h1>
       <p class="subtitle">Do Knot Site; Your Source: Is ██████.</p>
       <p class="volume-info">II. IV. Give: The Characters • ERA_Æ</p>
