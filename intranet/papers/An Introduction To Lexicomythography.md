@@ -2,7 +2,7 @@
 title: Foundations of Lexicomythographic Methodology
 author: Dr. Callie Rose Petal
 abstract: An introduction to the theoretical framework...
-page: 3
+date: "1800-07-01"
 layout: layout.njk
 ---
 
