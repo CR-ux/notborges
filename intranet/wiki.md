@@ -4,8 +4,9 @@ date: 2024-01-01
 layout: layout.njk
 permalink: "/about/"
 ---
-
-![Petal outside Carlton Recording Studios, Glasgow](/images/callie_rose_petal.jpg)
+<div class="inline-image">
+  <img src="/images/callie_rose_petal.jpg" alt="Petal outside Carlton Recording Studios, Glasgow">
+</div>
 
 **Callie Rose Petal** (born 17 April 1994) is a Scottish avant-garde conceptual performance artist, composer, software developer, and language artist. Her work spans experimental literature, noise composition, and transmedia ritual. She is known for her work as a "noise alchemist", fusing experimental sound, ritual structure, and semiotics. 
 
