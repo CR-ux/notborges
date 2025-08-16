@@ -11,7 +11,7 @@ layout: layout.njk
 
 In this Abstract, we begin the analysis of a cryptically abstract and challenging work of knot-fiction known as *The Children's Gospel Music Songbook*, in order to attempt the Herculean and perhaps futile task of untangling its threads into some form of {{il}l}{e{li}gible} accessibility. 
 
-Thought to be written by The Woman In The Wallpaper, working under a pseudonym *The Character of Callie Rose Petal*, the book exists in various forms, dispersed throughout the surface world, but existing in full only within the confines of our Society's system of tunnels; interlocking in a pattern of concentric rings[^w]. We the authors and our unknowable editors believe it is time to release this work, before the Character's end, at the Story's beginning. 
+Thought to be written by The Woman In The Wallpaper, (author of an epistolary account of institutionalisation, a work of experimental knot-fiction, known posthumously as ['RED_RING_PARALLEL: A Mythopoeic Antibiography in Phi Parts'](https://cr-ux.github.io/thejournalsofariadne/papers/RED_RING_PARALLEL_.pdf) ) working under a pseudonym *The Character of Callie Rose Petal*, the book exists in various forms, dispersed throughout the surface world, but existing in full only within the confines of our Society's system of tunnels; interlocking in a pattern of concentric rings[^w]. We the authors and our unknowable editors believe it is time to release this work, before the Character's end, at the Story's beginning. 
 
 What you will find herein has been read by very few, within the inner circle of anonymised Lexicomythographers, and perhaps even more unthinkably, even within the Ennead of Noets of the Indefinite Library of Fable, on the other side of the Tri-Moat Surrounding. This is not for lack of trying, of course -- the work is a Labyrinth of Loss, and that loss permeates through the text itself. As The Noet of Differance, Derrida, would say, there is nothing outside of the text. And we on either side of the eternally recurring Schism, both ARIA and DNE factions, have come to discover at this latest hour of the night, in the mourning of a life that never arrived, a Library of lives in books unreturned-- that The Children's Gospel Music Songbook, in all its meandering Truth dressed up as Fiction, wrote us all, each one of us, into being. 
 
@@ -63,7 +63,7 @@ For the Sea[^sea] is grateful for the salt.
 
 # Garden of ᶠᵒᵒᵗNoet(s) $PATH
 
-[^w]: See the lexDict, Fourth Edition, Second Revision, {.}ofEntry *W is For...* lexDef(Xlibris) "Wryng" {lexAllele(s)::: Noen||Croen(ARIA|DNE)} < {A Moat || N.B. ARIA var = A Wryng of Misunderstandings | DNE var = A System of at least Six Wryngs)}
+[^w]: See the [lexDict, Fourth Edition, Second Revision](https://cr-ux.github.io/thejournalsofariadne/papers/lexDict%2C%202nd%20Edition%2C%204th%20Revision.pdf) {.}ofEntry *W is For...* lexDef(Lamb) "Wryng" {lexAllele(s)::: Noen||Croen(ARIA|DNE)} < {A Moat || N.B. ARIA var = A Wryng of Misunderstandings | DNE var = A System of at least Six Wryngs)} 
 [^pr]: lexDef (xLibris) "Truth" {lexAllele(s)::: Prodverb} < God Has To Let You Go[^GodProdverb]
 
 [^GodProdverb]: God Has To Let You Go, The Woman In The Wallpaper as The Character of Callie Rose Petal Written on The Wallpaper The Woman Now Lives In
@@ -75,7 +75,115 @@ For the Sea[^sea] is grateful for the salt.
 
 
 [^s]: lexDef "Shore" {usage::: Noen || Croen} < The Endpoint,[^sea] Which Was Beneath All Along. {SynApp (Wyrb) :: "Sure"} << {To Be Wrong} || N.B. "A Shore Of Footnotes"[^source]
-[^sea]: ![[The Sea]]
+[^sea]: the sea is singing 
+saying in its breath:
+i am sorry i cant fix the bruise, the dose 
+hold you in the weighty ways you wanted 
+i can't wash away any of the inside 
+or make your mum call back earlier 
+
+the clouded sky had said then i am sorry 
+that i had to let you go 
+i am sorry that the longing for your body 
+can't make your work be held by those who need it 
+yet,
+i asked them, could they tell my mum 
+i am sorry i moved so far away 
+whatever water falls to all the gravity i ignored 
+was my children, they are singing
+
+an egg cracked, and wondered why nothing came out of it
+but i was there still, listening, to its breaking 
+like a wave 
+in blood, in vain, in endless undried paintings 
+that the egg had made, for the yolk it wanted to become
+
+and the sand it landed on replied 
+i wish i could help you
+feel more safe 
+some how
+but i was the gospel to a
+god that had to let me go 
+i was the song that sang at bridges 
+singing to the beat of change
+falling softly into hats 
+i was the music with a rhythm, beaten 
+dancing--
+round the fire, leaving 
+soot and ash in shapes of dancing 
+bones for dancing, bones for drumming 
+
+the pyre was lost then, but the leaves 
+they were singing, oh
+how they had forgiven 
+all the reaching trees
+who'd had to let them go 
+for else they would have never lived.
+
+
+i sighed, to someone, i bellowed 
+as an organ
+a vital body who 
+might have held
+all the breath of this 
+too late
+a night of space 
+between the branch
+of a branch 
+of a sickly and so brittle branch 
+peeled,
+exposing all that little filth it came from 
+and became 
+and where it might sit at my keys 
+like the heavy oak's goodbye
+carved into the welcomed seed
+of unpalatable memory--
+a family table:
+
+i am forever in your art, and will
+to live as long as the wretching fire
+that burns your heart to make it 
+
+this body is the work of living 
+and dying taught me everything 
+there was no body made to hold the weld
+together
+holding all the eaves of mine
+to mine the evening ore 
+to drowse from rousing, or 
+how all the awe of all this
+story left arose 
+a bed of rivers 
+unforgiving 
+
+i was the children
+i could never bear to hold
+i do not what to die 
+until some body holds my body 
+writhing underworked
+a covering - i was the stitching of a signature 
+in some unread joke, a fiction
+to them i wrote
+myself out of to hold 
+this meaning of a word for how
+they could 
+not hold 
+my pages
+
+there was a voice then, finally 
+saying
+i was the children -- i was dancing
+i was the music -- i was the dancing 
+i was the song -- i bled from dancing 
+i was the book i wrote myself out of -- dancing
+and i was this little story -- tired, i left myself 
+i left 
+writing
+nothing but a story 
+that read to me, one bedtime:
+
+Never be afraid to cry 
+the sea is grateful for the salt 
 
 [^source]: [[#RESULTS|N is for Nietzsche, Nobody, Never*, Chapter I | …For is ܐ | Oar: Pyr{e}.]]
 [^tss]: ![[TSS]]
