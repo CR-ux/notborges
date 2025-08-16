@@ -1,4 +1,3 @@
-
 ---
 title: The Children's Gospel Music Songbook - In Modern Context
 author: notBorges
