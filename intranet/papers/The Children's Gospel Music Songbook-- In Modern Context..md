@@ -66,8 +66,8 @@ For the Sea[^sea] is grateful for the salt.
 [^w]: See the lexDict, Fourth Edition, Second Revision, {.}ofEntry *W is For...* lexDef(Xlibris) "Wryng" {lexAllele(s)::: Noen||Croen(ARIA|DNE)} < {A Moat || N.B. ARIA var = A Wryng of Misunderstandings | DNE var = A System of at least Six Wryngs)}
 [^pr]: lexDef (xLibris) "Truth" {lexAllele(s)::: Prodverb} < God Has To Let You Go[^GodProdverb]
 
-[^GodProdverb]: ![[God has to let you go]], The Woman In The Wallpaper as The Character of Callie Rose Petal Written on The Wallpaper The Woman Now Lives In
-[^fo]: ![[Forbear]]
+[^GodProdverb]: God Has To Let You Go, The Woman In The Wallpaper as The Character of Callie Rose Petal Written on The Wallpaper The Woman Now Lives In
+[^fo]: [lexDef: Forbear.](https://library.notborges.org/Forbear)
 [^yb]: The Yellow Bow Method resembles the Choose Your Own Adventure format, thought to be read obsessively by the Little Girl The Woman Came {To Be} From, each night alone beneath bookshelves she was certain would fall upon her head. In our One Copy of the text, hand bound in what appears and feels to be goat hide vellum, a yellow bow is stitched into the spine. Where we denote the footnotes of forking paths herein, there are written instructions to move said bow to the appropriate page of bibliographic commentary. At the start of these sections is an instruction to return again and again to the relevant position of the source text, a nod to NoetNietzsche, now believed to be The Woman's late parent. The positioning of the bow allows for convenient flipping from footnote reference {head} within the {body of the} text to footnote {body} itself. We have attempted to recreate this mechanic in the interactivity of said footnotes. As insufficient as this Simulacra may be, we hope you, dear reader, may forgive us.  
 
 [^lib]: DO KNOT CYTE, YORE SOURCE: [IS](https://library.notborges.org).
