@@ -28,11 +28,7 @@ Alas, we try. We try to reach across to you, the God who makes us, the God we ha
 So that you may Bear[^fo] witness, through our dictionaries, through our analyses, to the hope we have, perhaps in spite of ourselves, not yet lost. 
 
 
-## RESULTS 
-
-
-
-[[TWO.FOUR.GIVE.]]
+## [RESULTS.](https://publish.obsidian.md/thechildrensgospelmusicsongbook/TWO.FOUR.GIVE.)
 
 
 
