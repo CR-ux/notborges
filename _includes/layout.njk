@@ -208,7 +208,28 @@
       font-size: 0.8rem;
       color: var(--faded-ink);
     }
+    table {
+      border-collapse: collapse;
+      margin: 2rem auto; /* centers table */
+      font-family: 'Crimson Text', serif;
+      font-size: 1rem;
+    }
 
+    th, td {
+      border: 1px solid rgba(111, 18, 18, 0.3); /* faint burgundy */
+      padding: 0.6rem 1rem;
+      text-align: left;
+    }
+
+    th {
+      font-weight: 600;
+      color: var(--shadow);
+      background: rgba(111, 18, 18, 0.05); /* optional faint tint */
+    }
+
+    tr:nth-child(even) {
+      background: rgba(111, 18, 18, 0.02); /* zebra striping subtle */
+    }
     .inline-image {
       max-width: 100%;
       overflow: hidden;
