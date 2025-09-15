@@ -1,6 +1,6 @@
 ---
 title: The Lexicomythographic Guide to Audramaturgical Genesis
-author: notBorges
+author: Maestræ ⧖eno
 abstract: The Dramaturgical Dimensions of Music Production
 date: "2025-09-15"
 layout: layout.njk
@@ -14,7 +14,8 @@ layout: layout.njk
 | 4              | Thematic       | Concept               |
 | 5              | Interpretative | Meaning               |
 | 6              | Divine         | Creation              |
-
+<br>
+Table I: Synopsis of Audramaturgical Findings (Interpeted via Endivean Analysis). Source: Myo Endive in transtemporal collaboration with Maestræ ⧖eno. ERA_Æ/i_o
 <br><br>
 
 The {First Wall | Vertical Dimension}
