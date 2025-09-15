@@ -14,8 +14,13 @@ layout: layout.njk
 | 4              | Thematic       | Concept               |
 | 5              | Interpretative | Meaning               |
 | 6              | Divine         | Creation              |
+
 <br>
-Table I: Synopsis of Audramaturgical Findings (Interpeted via Endivean Analysis). Source: Myo Endive in transtemporal collaboration with Maestræ ⧖eno. ERA_Æ/i_o
+
+<br>
+
+<i>Table I: Synopsis of Audramaturgical Findings (Interpeted via Endivean Analysis). Source: Myo Endive in transtemporal collaboration with Maestræ ⧖eno. ERA_Æ/i_o</i>
+
 <br><br>
 
 The {First Wall | Vertical Dimension}
