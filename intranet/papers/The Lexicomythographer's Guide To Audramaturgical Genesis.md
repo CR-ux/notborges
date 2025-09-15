@@ -6,7 +6,7 @@ date: "2025-09-15"
 layout: layout.njk
 ---
 
-| Dimension/Wall | Axis           | Value                 |
+| Dimension      | Axis           | Value                 |
 | -------------- | -------------- | --------------------- |
 | 1              | Vertical       | Frequency Bands       |
 | 2              | Horizontal     | Stereo Field          |
