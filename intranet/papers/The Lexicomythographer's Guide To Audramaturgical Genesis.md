@@ -33,7 +33,7 @@ The horizontal axis of a mix may be mapped to the stereo field, from left to rig
 <br><br>
 The {Third Wall | Depth Dimension}
 <br>
-The z-axis (sounds as 'close' or 'far') within the drama of a mix would refer to the placement of players or apects of set design within a scene -- these occur through time. Time-based effects, such as reverb, delay, and modulation (the dynamic change of effects across time) create the suggestion of closeness (generally 'dry' sounds, stripped of effect) and distance (generally 'wet', effect-laden audio traces). 
+The z-axis (sounds as 'close' or 'far') within the drama of a mix would refer to the placement of players or aspects of set design within a scene -- these occur through time. Time-based effects, such as reverb, delay, and modulation (the dynamic change of effects across time) create the suggestion of closeness (generally 'dry' sounds, stripped of effect) and distance (generally 'wet', effect-laden audio traces). 
 <br><br>
 The {Fourth Wall | Thematic Dimension}
 <br>
