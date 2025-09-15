@@ -39,11 +39,12 @@ The {Fourth Wall | Thematic Dimension}
 <br>
 'The fourth wall' in both a stage and musical production denotes the barrier that exists between the audience and artist -- for theatre, this denotes the suspension of disbelief that the events of the play occur within a universe separate from ours. The fourth wall of any art form may be broken, with players and/or creators directly addressing the audience members or viewer. In audramaturigcal practice, this may be seen as the thematic axis of a piece -- perhaps afforded by lyrical content, cover artwork, and surrounding lore of the work. Stretching past this thematic dimension in this context may be based around breaking through the 'universe' that a musical composition builds by existing in a packaged whole -- perhaps through the writing of a pseudoacademic theoretical framework written in order to afford the creation of the work itself the opportunity to stretch out of its container, and become a vehicle across which the themes explored within may traverse the aesthetic distance between artist and audience. 
 <br><br>
-The Fifth Wall | Interpretative Dimension
+
+The {Fifth Wall | Interpretative Dimension}
 <br>
 The interpretive field exists on the other side of the conceptual 'moat' discussed prior. The listener's or viewer's own personal experience and collected series of events leading up to the experience of the work in question together form an amalgamative ground within which the seed of the artist's efforts (whether made known in full to the audience or not) is placed, and grows (or indeed withers) according to the circumstances of the perceiver and the environmental conditions placed upon the system at the time at which they receive the art. The fifth wall occurs at the interface between two intents - that of the artist and that of the audience; the two in a mutually exclusive, and yet inextricably linked, dance. 
 <br><br>
-The Sixth Wall | Divine Dimension
+The {Sixth Wall | Divine Dimension}
 <br>
 The divine field is a conversation between both the audience and the artist with their individual belief in something greater than themselves, which may be known to them consciously or not. This may take the form of the collective mind, a canonical deity, a cause, aspiration, or authority figure of some kind.
 <br>
