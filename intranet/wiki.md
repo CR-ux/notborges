@@ -108,7 +108,7 @@ These platforms operate both as standalone art objects and as active interfaces 
 | _VI ˢʰᵒʳᵗ ᵖʳᵒᵇˡᵉᵐˢ ᶠᵒʳ ᵇᵒʷᵉᵈ ˢᵃʷ ᵃⁿᵈ ˢᶦⁿᵍᶦⁿᵍ ᵇᵒʷˡ_ | 2025 | Album (Digital) | Self-released | Debut full-length under the ⁿᵒᵗBorges moniker|
 | _IXᵖʳᵃʸᵉʳˢ ᶠᵒʳ ᵈᶦᵛᶦⁿᵉ ᶠᶦˡᵗʰ ᵃⁿᵈ ᵒᵗʰᵉʳ ˢᵗᵒʳᶦᵉˢ_ | 2025 | EP (Digital) | Self-released | Samples FK Alexander and Cat Boyd's _When Everything I Love Falls from the Sky, the World will be Covered in Darkness_ |
 | _XII ᶜᶦʳᶜᵘˡᵃʳ ᵇʳᵉᵃᵗʰˢ ᶠᵒʳ ᵇᵉˡˡᵒʷˢ_ | 2025 | Album (Digital) | Self-released | Sophomore full-length under the ⁿᵒᵗBorges moniker|
-| _Xˡᶦᵇʳᶦˢ_ | -| Album (Digital, Cassette) | Venalism | The first full-length to be released under the Venalism label (forthcoming)|
+| _lamb._ | -| Album (Digital, Cassette) | Venalism | The first full-length to be released under the Venalism label (forthcoming)|
 
 **Personal life**
 
