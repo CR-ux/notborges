@@ -1,4 +1,10 @@
-
+---
+title: The Lexicomythographic Guide to Audramaturgical Genesis
+author: notBorges
+abstract: The Dramaturgical Dimensions of Music Production
+date: "2025-09-15"
+layout: layout.njk
+---
 
 | Dimension/Wall | Axis           | Value                 |
 | -------------- | -------------- | --------------------- |
