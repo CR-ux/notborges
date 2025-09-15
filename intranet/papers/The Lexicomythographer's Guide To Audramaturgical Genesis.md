@@ -29,7 +29,7 @@ In production theory, the vertical field can be conceptualised as the 'first wal
 <br><br>
 The {Second Wall | Horizontal Dimension} 
 <br>
-The horizontal axis of a mix may be mapped to the stereo field, from left to right channels perceived by the two human ears. These occur in tandem with frequency bands; high-end traces may be heard in either the left and right. 
+The horizontal axis of a mix may be mapped to the stereo field, from left to right channels perceived by the two human ears. These occur in tandem with frequency bands; both high- and low-end traces may be heard in either the left and/or right. The horizontal axis is affected by compositional components such as panning, width (mono vs. stero recording), phase relationships, and mid/side balance. 
 <br><br>
 The {Third Wall | Depth Dimension}
 <br>
