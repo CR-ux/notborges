@@ -182,7 +182,7 @@ The Wolf is not only the abuser, the oppressor; it is the god we build from unme
 [^s]: ![[SCROLL REMEMBERS I FORGET]], Excerpt from *The Childrens Gospel Music Songbook: N.B. (In Modern Context) TWO. FOUR. GIVE.* - The Character of Callie Rose Petal.
 [^sal]: lexTrans (SIPHO{N|r}) "Sal(i)vation" : *"I" spliced out of "Salivation"* << To remove one's desire is to be saved.
 [^sel]: *A{n|m}i{m|n}ation of the A{n|m}im{a|o} - Residue and Resonance*  - Selena Elk & Myo Endive, ERA_Æ|EA.
-[^ti]: *On 'Time'* - The Character of Callie Rose Petal, Some time in the future.
+[^ti]: [*On 'Time'*](https://gospel.notborges.org/Time) - The Character of Callie Rose Petal, Some time in the future.
 [^der]: *Plato's Pharmacy*, Derrida, 1968.
 [^black]: *"If I Had My Life to Live Over I'd dare to make more mistakes next time... I would be sillier than I have been this trip... I would climb more mountains and swim more rivers."* - An excerpt from *"Moments"*, a poem wrongly attributed to Jorge Luis Borges, supposedly written by Nadine Stair, who never existed. The poem itself forms the epigraph of a non-fictional textbook exploring the potential psychedelic hallucination influencing Heironymous Bosch's artworks, posthumously titled "The Blackened Bread: Ergotism and Visionary Experiences". The author remains unknown.
 [^derr]: "*il n'y a pas de hors-texte" | "There is nothing outside of the text"* - Of Grammatology, Derrida, 1967.
