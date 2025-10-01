@@ -97,7 +97,7 @@ If Barthes' philosophy identifies the house a myth-machine that naturalises harm
 Derrida’s Pharmakon: Care as Cure/Poison, Feeding as Captivity
 <br>
 María’s efforts to feed and soothe are structured by a Derridean *pharmakon*[^der]—the same act, as in writing, and in writing about writing, and in writing about writing aware of itself, is both venom and antidote. The milk curdles, fruit browns, bread blackens[^black]; nourishment literalises into ambivalence. Colonialism controls bodies by controlling what and how they eat; it scripts desire, then supplies its counterfeit.
-<br>
+<br><br><br>
 
 ### DISCUSSION
 <br>
@@ -111,7 +111,7 @@ Generational Trauma: Domestic Rituals as Re-enactments
 <br>
 The home becomes a trauma device. Everyday acts—cooking, sweeping, tucking children in—are rituals that replay the colony’s pedagogical machine. Abuse returns as instruction; deprivation masquerades as discipline. The children are “made” out of fear and need, so they inherit the form of that origin: they are always almost-human, always almost-loved.
 
-<br><br>
+<br>
 ⸻
 <br>
 
@@ -143,7 +143,7 @@ Colonia Dignidad’s blend of German pietism, authoritarian rule, and collusion 
 Generational trauma follows: children raised in such regimes often reproduce its logics in intimacy. María’s “parenting” is a survival-script; it is also how domination lives on without guards at the door.
 <br>
 ⸻
-<br>
+<br><br><br>
 
 ### SUPPLANTED MATERIAL 
 <br>
