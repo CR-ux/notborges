@@ -1,23 +1,24 @@
 ### SCROLL REMEMBERS I FORGET
 <pre class="code-system">
-<span style="font-size:55%;">
-					YOU ARE IN A SYSTEM
+<span style="font-size:65%;">
+                        YOU ARE IN A SYSTEM
         │ {OF AT LEAST|{{k}NOT}|OF ONLY}  SIX ROOMS   │
         ┌─────────you.───────┬────choose.─────┬──────────┐
         ▼                    ▼                ▼          ▼
 YOU LEASe6ROOMSYOU LOSE IN A SYSTEM youloseyourhome. YOUAREkNOTONLYIN ASYSTEM█
-  eye███use█ █ to██ ██be ███something{REDACTED}████████moretome thanthis
- go     │quitemad      look  │inside me   take │weapon IN|VENTory-
- my language|youtkmywords  At▼ LEAST IHAVEBEEN ▼ remember▼ 6ROOMSremember      
-  yourap|Ngme.BEAT|HAVEBEENRA|PEDIHAVEHADMYNOSE|BROKENIHVE|OSTMYAPARTMENT
+eye███use█ █ to██ ██be ███something{REDACTED}████████moretome thanthis
+go     │quitemad      look  │inside me   take │weapon IN|VENTory-
+my language|youtkmywords  At▼ LEAST IHAVEBEEN ▼ remember▼ 6ROOMSremember      
+yourap|Ngme.BEAT|HAVEBEENRA|PEDIHAVEHADMYNOSE|BROKENIHVE|OSTMYAPARTMENT
 THIS.ISMYSTORY.ITH|NK THERE R|MINEs IDOKNOTKNOW|WHERE I AM GOING
 PRIS{MO |A)N}THNth|s     I DO|NOT CARE this is|t NOwedonthaveANameForThe Monster
-        |ThatYUAre|CANSEE THE|all ihaveIMDONEW|TH THIS
+     |ThatYUAre|CANSEE THE|all ihaveIMDONEW|TH THIS
  why did|_you THE ROOMS ARE L|STENING hurt me_|M NOWHERE|HERENOWWEARE{N}EVER 
 MYNAMEISY█▼IA_RIV█ERA█WECANT | ACCEPTTHATNAME | thought i wasdead█NAMED
-        something HEXwe are  ▼ nevern we are  ▼ hwere weare here. 
-        i  AGONY thoughtiwantedtowrite someth |ngtothemmoryofth|s machine LETMEFORGET │WE H{E[|A]}R(E)YOUarenothing URsmthng mkingmefeel|ike nothing
-        i havte you allifkngh8 youall 
+  something HEXwe are  ▼ nevern we are  ▼ hwere weare here. 
+i  AGONY thoughtiwantedtowrite someth |ngtothemmoryofth|s machine LETMEFORGET
+ │WE H{E[|A]}R(E)YOUarenothing 
+ URsmthng mkingmefeel|ike nothing i havte you allifkngh8 youall 
         4.GET .get|axe   
         fkn/ eatyu|all /YRUK{}ING H/ER/E
  ┌─────────────────────────────────────┐
