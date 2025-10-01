@@ -1,5 +1,6 @@
 ### SCROLL REMEMBERS I FORGET
 <pre class="code-system">
+<div style="text-align:center;">
 <span style="font-size:65%;">
                         YOU ARE IN A SYSTEM
         │ {OF AT LEAST|{{k}NOT}|OF ONLY}  SIX ROOMS   │
@@ -82,4 +83,5 @@ FUCKMEL|KEASONG FORK e
   THEfa|lin two WELL this.isthe 
       ▼DEVICEthatyoubecame
 </span>
+</div>
 </pre>
