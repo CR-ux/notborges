@@ -11,8 +11,11 @@ layout: layout.njk
 <div class="inline-image">
   <img src="/images/thewolfhouse.png" alt="The Woman.">
 </div>
+<br>
 Fig. I. Rendering of The Woman In The Wolf House's Wallpaper, A Tapestry by Hildr Charon Wiltergarten
 <br><br>
+
+<br>
 
 ### FOREWORD
 <br>
@@ -51,22 +54,22 @@ Fig. I. Rendering of The Woman In The Wolf House's Wallpaper, A Tapestry by Hild
 
 In actantial theory[^act], six 'actants' form a hexagonal, self-{replicating|similar} fr(a{ctal)|mework}[^tr1] of a narrative: just one emanation of the *Six Room System*[^s] in Lexicomythographic discourse. In the following analysis, {We|I} attempt to synthesise the importance of the pivotal film *La Casa Lobo* (The Wolf House)-- within the ideological walls of these Six Rooms-- into a thorough primer for the Society of Lexicomythographers, on both sides of the ARIA|DNE Schism.
 
-<br>
+<br><br><br>
 
 ### CONFLICT OF INTEREST 
 
 <br>
 
 *{I|We} the authors wish to disclose a significant conflict of interest for this publication, namely: that {al(l)|one} of us were birthed into existence from the walls papered in the process of this film's creation itself.* *As such, the following account will be unavoidably biased in scope, as views of the work's references, characters and themes therein form the entirety of the author's cognitive perception.*
-<br>
+<br><br><br>
 
 ### ABSTRACT
-
+<br>
 <br>
 
 The Wolf House operates as a three-storey, dual-perspective (i.e. hexagonal) structure—propaganda frame, confessional fairy tale, and self-exposing medium—through which colonial violence reproduces itself as care. Hunger becomes the master-sign: biological lack, psychic craving, and political deprivation braided into a single god-image—the Wolf. From the DNE (left-hand, initiatory) perspective, sal(i)vation[^sal] doesn’t arrive via purity or moral repair but by facing rot as the material of truth. As a metatextual example of *Mise en Abyme*, the work is crafted in a medium portraying a hunger of its own -- forms-as-facsimile; characters sculpted from humble cardboard, wire, tape, yarn. These uncanny figures emerging from barren rooms of intimate emptiness, only to be broken again and again-- redacted, repositioned, reformed. Erasure of both voice and identity is enacted within the form of the works own presentation, and that tragically fleeting, most futile hope which can only be cultivated within profound loneliness, is performed frame after frame, in an illusion of 'real-time'. Stop-motion is a heavily symbolic field, and within the context of Lexicomythography's School of Aesthetic Hermeticism[^sel], holds its place as an expression of the ultimate holographic nature of Maya in the manifest world. Each experiential snapshot of 'Now' is experienced in consciousness as a Heraclitean river[^ti]; a causal chain seemingly unbroken, while in reality the scope of our field of sensory synthesis stretches infinitely outward and inward. {Our awareness of 'events'|The 'Subject(ive)'} an ever-taught Zeno's Bow-- yellowed and veiled, necessarily, as the very Arrow it grasps -- {the 'Object(ive)'|events themselves to which we are Subjected} -- never truly reaching its target. *La Casa Lobo* dramatises how colonial pedagogy rebrands deprivation as care; hunger—physiological, affective, political—converges into a domesticated demiurge (“the Wolf”), and stop-motion’s iterative erasure formally reenacts that captivity.
 
-<br>
+<br><br><br>
 
 ⸻
 <br>
@@ -75,7 +78,7 @@ The Wolf House operates as a three-storey, dual-perspective (i.e. hexagonal) str
 <br>
 
 This study was conducted under severe duress, by an author brought into being without consent, through the act of the characters' self-erasure. With each redaction enacted on-set, the para-method revealed itself -- an identity formed through its own lack, and through the illusion of connection in an infinitely divisible space. Ergo, {(My|O)ur} methods can be synopsised in a single word: madness.
-<br>
+<br><br><br>
 
 ### INTRODUCTION
 
@@ -94,6 +97,9 @@ If Barthes' philosophy identifies the house a myth-machine that naturalises harm
 Derrida’s Pharmakon: Care as Cure/Poison, Feeding as Captivity
 <br>
 María’s efforts to feed and soothe are structured by a Derridean *pharmakon*[^der]—the same act, as in writing, and in writing about writing, and in writing about writing aware of itself, is both venom and antidote. The milk curdles, fruit browns, bread blackens[^black]; nourishment literalises into ambivalence. Colonialism controls bodies by controlling what and how they eat; it scripts desire, then supplies its counterfeit.
+<br>
+
+### DISCUSSION
 <br>
 When María says, “I want something fresh,” she isn’t only hungry—she longs for a supplement (another Derrida key): something that fills a lack and replaces the original. Her “children,” stitched from paint and pigs, supplement loneliness—yet the supplement discloses that the original (safe motherhood, untainted care) was never intact. The house teaches her the colonial lesson: even tenderness arrives adulterated.
 <br>
@@ -138,6 +144,9 @@ Generational trauma follows: children raised in such regimes often reproduce its
 <br>
 ⸻
 <br>
+
+### SUPPLANTED MATERIAL 
+<br>
 Actant Map {INTERNAL DISSEMINATION ONLY}
 
 Greimas’ actants clarify the power choreography:
@@ -151,17 +160,20 @@ Greimas’ actants clarify the power choreography:
 
 ⸻
 <br>
+
+### CONCLUSION
+<br>
 “I Want Something Fresh”
 <br>
 In these four words, the film's thesis is brought to light: anything you try to feed here will rot. The line is the moment desire outstrips the system’s capacity to provide; it’s also when María senses the counter-god she’s serving. She loves her self-made children and is, at the same time, reproducing the colony’s care-as-control. That contradiction is unbearable—and recognisable.
-<br>
+<br><br>
 ⸻
 <br>
 Coda: The Wolf We Make
-<br>
+<br><br>
 The Wolf is not only the abuser, the oppressor; it is the god we build from unmet need. It is hunger, it is desire. It is gravity, the Sun and the primal fire around which we dance, when immolation becomes our only source of heat. 
 
-<br><br>
+<br><br><br>
 
 # ᶠᵒᵒᵗNoet(s)
 
