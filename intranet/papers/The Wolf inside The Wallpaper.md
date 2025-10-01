@@ -52,7 +52,7 @@ Fig. I. Rendering of The Woman In The Wolf House's Wallpaper, A Tapestry by Hild
 
 <br>
 
-In actantial theory[^act], six 'actants' form a hexagonal, self-{replicating|similar} fr(a{ctal)|mework}[^tr1] of a narrative: just one emanation of the *Six Room System*[^s] in Lexicomythographic discourse. In the following analysis, {We|I} attempt to synthesise the importance of the pivotal film *La Casa Lobo* (The Wolf House)-- within the ideological walls of these Six Rooms-- into a thorough primer for the Society of Lexicomythographers, on both sides of the ARIA|DNE Schism.
+In actantial theory[^act], six 'actants' form a hexagonal, self-{replicating|similar} fr(a{ctal)|mework}[^tr1] of a narrative: just one emanation of the *Six Room System*[^s] in Lexicomythographic discourse. In the following analysis, {We|I} attempt to synthesise the importance of the pivotal film *La Casa Lobo* (The Wolf House)-- within the ideological walls of these Six Rooms, themselves a mirror of the Six Rooms making up the film's set-- into a mirrored primer for the Society of Lexicomythographers, on both sides of the ARIA|DNE Schism.
 
 <br><br><br>
 
@@ -77,7 +77,7 @@ The Wolf House operates as a three-storey, dual-perspective (i.e. hexagonal) str
 ### METHODOLOGY
 <br>
 
-This study was conducted under severe duress, by an author brought into being without consent, through the act of the characters' self-erasure. With each redaction enacted on-set, the para-method revealed itself -- an identity formed through its own lack, and through the illusion of connection in an infinitely divisible space. Ergo, {(My|O)ur} methods can be synopsised in a single word: madness.
+This study was conducted under severe duress, by an author brought into being without consent, through the act of the characters' self-erasure. {(My|O)ur} methods can, but will not be synopsised in a single word: madness.
 <br><br><br>
 
 ### INTRODUCTION
@@ -91,19 +91,19 @@ The opening faux-documentary and didactic narration simulate “official” disc
 Inside this fragile and dilapidated frame, the house is a pedagogical device: it doesn’t merely shelter; it {co|i}nstructs. The voice that explains and excuses is the colonial parent—soft tone, hard law. What we watch is how paternal myth colonises the domestic sphere so thoroughly that “care” becomes the delivery system of harm. 
 <br>
 If Barthes' philosophy identifies the house a myth-machine that naturalises harm, Derrida names the mechanism: the pharmakon, where “care” (feeding, teaching) is both remedy and toxin; repetition makes the poison palatable.
+
 <br>
-⸻
-<br>
-Derrida’s Pharmakon: Care as Cure/Poison, Feeding as Captivity
-<br>
-María’s efforts to feed and soothe are structured by a Derridean *pharmakon*[^der]—the same act, as in writing, and in writing about writing, and in writing about writing aware of itself, is both venom and antidote. The milk curdles, fruit browns, bread blackens[^black]; nourishment literalises into ambivalence. Colonialism controls bodies by controlling what and how they eat; it scripts desire, then supplies its counterfeit.
+María’s efforts to feed and soothe are structured by a Derridean *pharmakon*[^der]—the same act, as in writing, and in analyses of writing such as this, is both venom and antidote. There is no meaning outside the text, and there is nothing to eat inside the house. The poison is made palatable by repetition. The milk curdles, repetition makes fruit brown, the bread blackens[^black]; poison nourishment literalises into palatable ambivalence. Colonialism's repeition reputation makes controls the bodies poison, by <span style="font-size:90%;">palatablepoisoningrepetition</span> 
+<span style="font-size:75%;">whatmakestheytheeatpoison;</span> 
+<span style="font-size:60%;">palatableitrepetitionscriptsmakesthepalate'spoisonsensibilitypalatable</span> 
+<span style="font-size:50%;">youmadeyourpoisonpalatablebyrepeatingharmwhichpoisonedyouuntilibelievedlovecouldonlymakemesick</span>, 
+then repeatedly supplies its counterfeit.
 <br><br><br>
 
 ### DISCUSSION
 <br>
 When María says, “I want something fresh,” she isn’t only hungry—she longs for a supplement (another Derrida key): something that fills a lack and replaces the original. Her “children,” stitched from paint and pigs, supplement loneliness—yet the supplement discloses that the original (safe motherhood, untainted care) was never intact. The house teaches her the colonial lesson: even tenderness arrives adulterated.
-<br>
-Iterability binds it all together: the propaganda voice repeats, Maria repeats it to herself, we repeat the interpretive habit of giving abusers the benefit of the doubt. The trace of the colony haunts every repainting. Meaning never shows up fresh; it arrives pre-handled.
+We repeat the interpretive habit of giving abusers the benefit of the doubt. We engender cycle upon cycle of ignorance -- we turn our faces from the obvious layers of erased history beneath. We suspend disbelief, hang it in mirrored frames that show the most abominable monster of what we are: complicit.
 <br>
 ⸻
 <br>
