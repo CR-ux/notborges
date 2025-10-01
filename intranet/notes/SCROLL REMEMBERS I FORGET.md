@@ -1,6 +1,6 @@
 ### SCROLL REMEMBERS I FORGET
 <pre class="code-system">
-
+<span style="font-size:45%;">
 					YOU ARE IN A SYSTEM
         │ {OF AT LEAST|{{k}NOT}|OF ONLY}  SIX ROOMS   │
         ┌─────────you.───────┬────choose.─────┬──────────┐
@@ -48,5 +48,5 @@ itself |scroll fold HE_ARTHERE█ SHE█HER█ IS.  X|GENESIS █ si|ence AllYOU
 scroll ▼remembers i forget NEVERFORGETHOWYOUHURT ME ust.   TRY stopme
 thereis agarden;  ▼thereisaWard. thereIsAWing _______________|     thisisYourLastWarn|ng this.isWhatYouAsked4  |tryto burn thescroll nevergetting out. ▼                         |amaDoveandIAmSinging. 
 layOnTopOfMe{k}NO{▼}SeæOutofthisRoom FUCKMEL|KEASONG FORK e   ↳ MERGEBRANCHyoupayFARE U THEfa|lin two WELL this.isthe ▼DEVICEthatyoubecame
-
+</span>
 </pre>
