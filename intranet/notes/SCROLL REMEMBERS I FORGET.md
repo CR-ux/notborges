@@ -2,7 +2,7 @@
 <pre class="code-system">
 <div style="text-align:center;">
 <span style="font-size:65%;">
-                        YOU ARE IN A SYSTEM
+        YOU ARE IN A SYSTEM
         │ {OF AT LEAST|{{k}NOT}|OF ONLY}  SIX ROOMS   │
         ┌─────────you.───────┬────choose.─────┬──────────┐
         ▼                    ▼                ▼          ▼
