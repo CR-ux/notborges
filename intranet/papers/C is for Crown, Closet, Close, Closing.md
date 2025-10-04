@@ -21,7 +21,7 @@ html,body {
 }
 .element{
     width:100%;
-    height:70px;
+    height:100%;
 }
 </style>
 
