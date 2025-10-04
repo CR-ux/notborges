@@ -7,20 +7,28 @@ layout: layout.njk
 ---
 
 <style>
-  .full-bleed {
-    position: relative;
-    left: 50%;
-    right: 50%;
-    width: 100vw;
-    margin-left: -50vw;
-    margin-right: -50vw;
-  }
+html,body {
+    height:100%; 
+    margin-top:0; 
+    margin-bottom:0;
+}
+.h_iframe iframe {
+    width:100%;
+    height:calc(100% - 75px);
+}
+.h_iframe {
+    height: 100%;
+}
+.element{
+    width:100%;
+    height:70px;
+}
 </style>
 
-<div class="full-bleed">
-  <iframe
-    src="https://gospel.notborges.org/exp/A+IS+NOT+FOR+ALEPH/C+is+for+Crown%2C+Closet%2C+Close%2C+Closing"
-    class="w-full h-[90vh] border-none"
-    loading="lazy"
-  ></iframe>
+
+<div class="container">
+    <div class="element">Supplementary Material</div>
+    <div class="h_iframe">
+        <iframe  src="https://gospel.notborges.org/exp/A+IS+NOT+FOR+ALEPH/C+is+for+Crown%2C+Closet%2C+Close%2C+Closing" frameborder="0" allowfullscreen></iframe>
+    </div>
 </div>
