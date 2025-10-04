@@ -14,7 +14,6 @@ html,body {
 }
 .h_iframe iframe {
     width:100%;
-    height:calc(100% - 75px);
 }
 .h_iframe {
     height: 100%;
