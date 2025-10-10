@@ -47,7 +47,25 @@ o = {author|body|opacity|solve|category}
 
 //input value
 
-let i = "You sabotaged my ass, society. And the cops, and the system... a raped woman got executed. It was used for books and movies and shit. You're an inhumane bunch of fuckin' livin' bastards and bitches and you're gonna get your asses nuked in the end, and pretty soon it's comin'! 2019 a rock's supposed to hit you anyhow, you're all gonna get nuked. You don't take fuckin' human life like this and just sabotage it and rip it apart like Jesus on the cross, and say thanks a lot for all the fuckin' money I made off of ya. And not care about a human being, and the truth being told. Now I know what Jesus was going through."
+let i = "You sabotaged my ass, society. 
+And the cops, and the system... 
+a raped woman got executed. 
+It was used for books and movies and shit. 
+You're an inhumane bunch of fuckin' 
+livin' bastards and bitches 
+and you're gonna get your 
+asses nuked in the end, 
+and pretty soon it's comin'! 
+2019 a rock's supposed to hit you anyhow, 
+you're all gonna get nuked. 
+You don't take fuckin' human life like this 
+and just sabotage it and rip it apart 
+like Jesus on the cross, 
+and say thanks a lot 
+for all the fuckin' money I made off of ya. 
+And not care about a human being, 
+and the truth being told. 
+Now I know what Jesus was going through."
 
 
 
