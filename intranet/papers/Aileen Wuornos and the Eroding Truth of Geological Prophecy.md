@@ -1,7 +1,7 @@
 ---
 layout: layout.njk
 title: "Aileen Wuornos and the Eroding Truth of Geological Prophecy"
-author: "Myo Endive"
+author: "The Endive Research Group"
 date: "3025-10-10"
 abstract: DNE's Unfair Usage of The Fair Well Device
 
