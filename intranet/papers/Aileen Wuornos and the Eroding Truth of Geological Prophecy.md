@@ -73,9 +73,9 @@ As we feel there is little else to discuss on the matter, we leave you, dear rea
 # ᶠᵒᵒᵗNoet(s)
 
 [^sq]: ![[Squander]]
-[^lab]: *[[THE LAB CODEX OF MYO ENDIVE]],* ERA_Æ.
+[^lab]: *[THE LAB CODEX OF MYO ENDIVE](https://library.notborges.org/THE%20LAB%20CODEX%20OF%20MYO%20ENDIVE),* ERA_Æ.
 [^rock]: The semiotic resonance of this symbol cannot be understated. Clearly a Christic metaphor, our colleagues in the Field of Prophetic Geology have published a number of papers on the importance of Stones throughout the Scriptural Literature of anteAntiquity; many of which still find their place in our Lexicomythographic Riptures of the *lexDict* (Second Edition, Fourth Revision).
-[^elk]: *[[THE GRIMOIRE OF SELENA ELK]],* ERA_EA.
+[^elk]: *[THE GRIMOIRE OF SELENA ELK](https://library.notborges.org/THE%20GRIMOIRE%20OF%20SELENA%20ELK),* ERA_EA.
 [^der]: *Of Grammatology,* Noet Derrida, 1967 (anteAntiquity).
-[^chess]: *[[Hivehouse Chess Openings]],* ERA_{Æ|EA}.
-[^thes]: *The Journals of THES|EUS* - Oleander Rho Dover, ERA_0.
+[^chess]: *[Hivehouse Chess Openings](https://gospel.notborges.org/Hivehouse)*, ERA_{Æ|EA}.
+[^thes]: *[The Journals of THES|EUS](https://github.com/CR-ux/THES-EUS)* - Oleander Rho Dover, ERA_0.
