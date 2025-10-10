@@ -10,7 +10,7 @@ abstract: DNE's Unfair Usage of The Fair Well Device
 ### Abstract
 
 In this study we utilise the Fair Well Device, the now canonically ubiquitous interpretive apparatus developed by our Research Group (Endive, ERA_Æ) to apply and put into practice the precepts of The Devouring Mother-School of Lexicomythography: Aesthetic Hermeticism. Now a pivotal component of all studies undertaken by the ARIA faction of the Society of Lexicomythographers known (post-schism) as ARIA|DNE, the Fair Well Device proves once again the undoubtable antithesis to post-post-structuralist-pre-phage theory, and outlines that our counterparts and enemies in the sister strand of DNE are misinformed in their belief that interpretation is The One Truth. Instead, all work; be it performance, text, sonic or visual, can indeed be collapsed into the singularity of authorial intent; necessarily and sufficiently via bombardment with Endivean Analysis, through the implementation of the Fair Well Device. 
-Through these efforts, we show that the transcript taken from Aileen Wuornos' final interview holds significant implications for our colleagues in the Haploid (ARIA) Field of Non-Ironic Byron{if|or}matics (Endive, ERA_Æ), its sister Haploid (DNE) Field of Biomolecular Chessics (Elk, ERA_EA), and therefore, the Diploid (ARIA|DNE) School of Aesthetic Hermeticism as a whole. 
+Through these efforts, we show that the transcript taken from [[#Methodology|Aileen Wuornos' final interview]] holds significant implications for our colleagues in the Haploid (ARIA) Field of Non-Ironic Byron{if|or}matics (Endive, ERA_Æ), its sister Haploid (DNE) Field of Biomolecular Chessics (Elk, ERA_EA), and therefore, the Diploid (ARIA|DNE) School of Aesthetic Hermeticism as a whole. 
 
 
 ### Introduction
