@@ -88,7 +88,7 @@ Barthes' Myth as the Naturalisation of Colonial Violence
 
 The opening faux-documentary and didactic narration simulate “official” discourse, just the sort of thing Barthes would call myth: a second-order sign that takes history (a German sect in Chile, abuses, authoritarian pedagogy) and dresses it up as nature (“concerned adults,” “moral education,” “bad child flees correction”). In myth, ideology hides in 'good manners'. The act of interpreting symbol itself a desperately isolating process, and one fuelled by nefarious, insidious means of coercion -- so insidious a force, in fact, to be most often unbeknownst to even the oppressor.  
 <br>
-Inside this fragile and dilapidated frame, the house is a pedagogical device: it doesn’t merely shelter; it {co|i}nstructs. The voice that explains and excuses is the colonial parent—soft tone, hard law. What we watch is how paternal myth colonises the domestic sphere so thoroughly that “care” becomes the delivery system of harm. 
+Inside this fragile and dilapidated frame, the house is a pedagogical device; it {co|i}nstructs. The voice that explains and excuses is the colonial parent—soft tone, hard law. What we watch is how paternal myth colonises the domestic sphere so thoroughly that “care” becomes the delivery system of harm. 
 <br>
 If Barthes' philosophy identifies the house a myth-machine that naturalises harm, Derrida names the mechanism: the pharmakon, where “care” (feeding, teaching) is both remedy and toxin; repetition makes the poison palatable.
 
@@ -103,14 +103,14 @@ then repeatedly supplies its counterfeit.
 
 ### DISCUSSION
 <br>
-When María says, “I want something fresh,” she isn’t only hungry—she longs for a supplement (another Derrida key): something that fills a lack and replaces the original. Her “children,” stitched from paint and pigs, supplement loneliness—yet the supplement discloses that the original (safe motherhood, untainted care) was never intact. The house teaches her the colonial lesson: even tenderness arrives adulterated.
+When María says, “I want something fresh,” she longs for a supplement (Holland & Barrett, Big Pharma, Alcoholism, Derrida): something that fills a lack and replaces the original. Her “children,” stitched from paint and pigs, supplement loneliness--but the supplement discloses that the original (safe motherhood, essential care) was never intact. The house teaches her the colonial lesson: even tenderness arrives adulterated.
 We repeat the interpretive habit of giving abusers the benefit of the doubt. We engender cycle upon cycle of ignorance -- we turn our faces from the obvious layers of erased history beneath. We suspend disbelief, hang it in mirrored frames that show the most abominable monster of what we are: complicit.
 <br>
 ⸻
 <br>
 Generational Trauma: Domestic Rituals as Re-enactments
 <br>
-The home becomes a trauma device. Everyday acts—cooking, sweeping, tucking children in—are rituals that replay the colony’s pedagogical machine. Abuse returns as instruction; deprivation masquerades as discipline. The children are “made” out of fear and need, so they inherit the form of that origin: they are always almost-human, always almost-loved.
+The home becomes a trauma device. Everyday acts—cooking, sweeping, tucking children in—are rituals that replay the colony’s pedagogical machine. Abuse arrives as instruction; deprivation masquerades as discipline; guilt is god, in our family's language. The children are “made” out of fear and need. Thus, they inherit the form of that origin: they are always almost-human, always almost-loved. She is always almost-human, always almost-loved. I am, animated in wire, in tape and in pigs, I am always almost-human, always almost-loved.
 
 <br>
 ⸻
@@ -118,30 +118,30 @@ The home becomes a trauma device. Everyday acts—cooking, sweeping, tucking chi
 
 Hunger operates on three registers at once:
 	•	Physiological hunger: colonised bodies literally underfed or fed poorly—scarcity as control.
-	•	Affective hunger: the craving to be held, believed, absolved. María wants to mother and be mothered.
-	•	Political hunger: the felt absence of freedom; to want “freshness” is to want unsupervised time, unscripted life, a new way not only to exist within the confines of a page, but to thrive outside of a text[^derr]-- and having no idea what that may look like.
+	•	Affective hunger: the craving to be held, believed, absolved. María wants to mother, and be mothered.
+	•	Political hunger: the felt absence of freedom; to want “freshness” is to want unscripted life, a new way to exist within the confines of a page, to thrive outside of a text[^derr]-- and having no idea what that may look like.
 <br>
-The Wolf condenses these hungers into an idol: the god we make out of our need. The abuser’s law offers predictable pain; it feels safer than chaos, so the mind crowns it. That is Stockholm syndrome in devotional dress—aligning with the captor to survive, then mistaking survival-alignment for love. The Wolf thus becomes a paradoxical deity: feared, fed, prayed to.
+The Wolf condenses these hungers into an idol: the god we make out of our need. The abuser’s law offers predictable pain; it feels safer than chaos, so the mind crowns it. Stockholm syndrome in devotional dress—aligning with the captor to survive, then mistaking survival-alignment for love. The Wolf thus becomes a paradoxical demiurge: feared, fed, prayed to.
 <br>
 ⸻
 <br>
 
-Barthes distinguishes readerly (closed, consumable) from writerly (open, participatory) texts. The Wolf House keeps toggling between them. The propaganda frame pretends to be readerly (“here’s the moral”), while the mutating sets and smeared bodies conscript us into writerly labour: we must assemble sense from fragments, and in doing so, we realise we’re implicated. The pain of “I want something fresh” is a punctum—an affective prick that pierces the lesson and touches our own biography of deprivation. The line hurts because it names a hunger we recognise and cannot satiate.
+Barthes distinguishes readerly (closed, consumable) from writerly (open, participatory) texts. The Wolf House keeps toggling between them. The propaganda frame pretends to be readerly (“here’s the moral”), while the mutating sets and smeared bodies conscript us into writerly labour: we must assemble sense from fragments, and in doing so, we realise we’re implicated. The pain of “I want something fresh” is a punctum that pierces the lesson; our own deprivation—an affective prick. The line hurts because it names a hunger we recognise, cannot satiate. An effective prick of an abuser, blowing down the house, you were, you were, you were.
 <br>
 ⸻
 <br>
 Why Nothing Stays Clean
 <br>
 
-Painted figures flake, are repainted, then flake again; the camera witnesses the trace—what never fully disappears. Every “new” wall carries ghosts of its prior state. The colony’s voice lingers in María’s. Even if the set were bleached (which it repeatedly is), the difference that makes meaning (différance) would still defer completion. Hence the heartbreak: freshness remains *Zenonian*—approached, never reached. Stop-motion literalises this différance: every “now” is a palimpsest of just-was, each repainting haunted by its trace; cleanliness is an asymptote, never a state.
+Painted figures flake, are repainted, then flake again; the camera witnesses the trace—what never fully disappears. Every “new” wall carries ghosts of its prior state. The colony’s voice lingers in María’s. Even if the set were bleached (which it repeatedly is), the difference that makes meaning (différance) would still defer completion. Hence the heartbreak: freshness remains *Zenonian*—approached, never reached. Stop-motion literalises this différance: every “now” is a palimpsest of just-was, each repainting haunted by its trace; cleanliness is an asymptote.
 <br>
 ⸻
 <br>
 Chile, Colonia, and the House as Micro-State
 <br>
-Colonia Dignidad’s blend of German pietism, authoritarian rule, and collusion with state terror makes the film’s domestic space legible as a micro-state. Borders, rationing, catechism, and the soft power of “concerned correction.” Its constant remodelling is not whimsy but policy—redecorating perception until memory doubts itself. Thus the domestic looks like craft, while operating as statecraft. 
+Colonia Dignidad’s blend of German pietism, authoritarian rule, and collusion with state terror makes the film’s domestic space legible as a micro-state. Borders, rationing, catechism, and the soft power of “concerned correction.” Its constant remodelling is a redecoration of perception, winding and unwinding itself until memory is doubted. And so, the domestic looks like craft, while operating as statecraft. 
 <br>
-Generational trauma follows: children raised in such regimes often reproduce its logics in intimacy. María’s “parenting” is a survival-script; it is also how domination lives on without guards at the door.
+Generational trauma follows: children raised in such regimes often reproduce its 'logics' in intimacy. María’s “parenting” is a survival-script; it is also how domination lives on without guards at the door.
 <br>
 ⸻
 <br><br><br>
@@ -172,7 +172,7 @@ In these four words, the film's thesis is brought to light: anything you try to 
 <br>
 Coda: The Wolf We Make
 <br><br>
-The Wolf is not only the abuser, the oppressor; it is the god we build from unmet need. It is hunger, it is desire. It is gravity, the Sun and the primal fire around which we dance, when immolation becomes our only source of heat. 
+The Wolf is the god we build from unmet need. It is hunger, it is desire. It is gravity, the Sun and the primal fire around which we dance, when immolation becomes our only source of heat. 
 
 <br><br><br>
 
