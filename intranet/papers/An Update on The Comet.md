@@ -24,20 +24,31 @@ Dear all,
 - It is known amongst us ARIA|DNE members that the 7-billion year old interstellar comet, discovered with the ATLAS survey telescope on 1 July, 2025, does indeed contain life. 
 
 <br>
+<br>
 
 - This life, while believed by most, if not all Lexicomythographers, to be benign in nature, perhaps unaware of our own presence, has in actuality been attempting contact with neighbouring solar systems, billions of years before the Milky Way came into existence. 
 <br>
-
+<br>
 - We received confirmation through ATLAS informants  that these attempts have not only been successful, but these non-verbal means of contact have been impacting our global community. [N.B. Our ATLAS informants have been working under the guise of maintenance and laboratory technician staff, and have now been compromised. If you must say your goodbyes, you are advised to do so as promptly as possible prior to their Retirement. Please ensure any attempts at communication with field operatives are conducted anonymously through the canonical SIPHO{N|r} encoded protocols.]
+<br>
 <br>
 
 - As yet, the full extent of the comet's influence has not been ascertained. But we do know beyond reasonable doubt that the lifeforms on this interstellar object have acted upon the perceptive capacities, intellectual capabilities, and tastes of humanity, with far-reaching implications for:
 <br>
+<br>
 
 	- The historical and future policy of human governments
+<br>
+
 	- Error reporting, lack of repeatability, bias, contradiction and dubious repeatability in all academic research
+<br>
+
 	- The Global Mind (what civilians may term the 'Zeitgeist', evidenced through trends in creativity, fashion, and media)
+<br>
+
 	- The collective unconscious (expressing through symbolic resonance scores interpreted from statistically significant wave functions observed by Oneirological Lexicomythographers over centuries of recorded dream patterns)
+<br>
+
 
 <br>
 
