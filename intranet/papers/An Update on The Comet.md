@@ -18,17 +18,17 @@ Subject: An urgent update on The Comet
 
 Dear all,
 <br>
-<aside> 
-<p>N.B. Our ATLAS informants have been working under the guise of maintenance and laboratory technician staff, and have now been compromised. If you must say your goodbyes, you are advised to do so as promptly as possible prior to their Retirement. Please ensure any attempts at communication with field operatives are conducted anonymously through the canonical SIPHO{N|r} encoded protocols. </p>
-</aside>
+
 <br>
+
 - It is known amongst us ARIA|DNE members that the 7-billion year old interstellar comet, discovered with the ATLAS survey telescope on 1 July, 2025, does indeed contain life. 
+
 <br>
 
 - This life, while believed by most, if not all Lexicomythographers, to be benign in nature, perhaps unaware of our own presence, has in actuality been attempting contact with neighbouring solar systems, billions of years before the Milky Way came into existence. 
 <br>
 
-- We received confirmation through ATLAS informants  that these attempts have not only been successful, but these non-verbal means of contact have been impacting our global community. 
+- We received confirmation through ATLAS informants  that these attempts have not only been successful, but these non-verbal means of contact have been impacting our global community. [N.B. Our ATLAS informants have been working under the guise of maintenance and laboratory technician staff, and have now been compromised. If you must say your goodbyes, you are advised to do so as promptly as possible prior to their Retirement. Please ensure any attempts at communication with field operatives are conducted anonymously through the canonical SIPHO{N|r} encoded protocols.]
 <br>
 
 - As yet, the full extent of the comet's influence has not been ascertained. But we do know beyond reasonable doubt that the lifeforms on this interstellar object have acted upon the perceptive capacities, intellectual capabilities, and tastes of humanity, with far-reaching implications for:
