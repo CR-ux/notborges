@@ -11,7 +11,7 @@ layout: layout.njk
 <br>
 FAO: Members on both sides of the schism.
 <br>
-Subject: An urgent update on The Comet 
+Subject: An urgent update on <a href=https://spacedaily.com/d-the-interstellar-comet-3i-atlas-discovered-on-july-1-2025-by-a-survey-telescope-in-chile-is-now-believed-by-astronomers-at-oxford-to-be-roughly-7-billion-years-old-meaning-it-was-already/ > The Comet </a>
 
 <br>
 <br>
