@@ -1,6 +1,6 @@
 ---
 title: An Update on The Comet
-author: {REDACTED}
+author: REDACTED
 abstract: Internal Dissemination Only
 date: "2025-07-01"
 layout: layout.njk
