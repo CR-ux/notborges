@@ -15,7 +15,7 @@ Subject: An urgent update on The Comet
 
 Dear all,
 
-<aside class="margin margin-right">N.B. Our ATLAS informants have been working under the guise of maintenance and laboratory technician staff, and have now been compromised. If you must say your goodbyes, you are advised to do so as promptly as possible prior to their Retirement. Please ensure any attempts at communication with field operatives are conducted anonymously through the canonical SIPHO{N|r} encoded protocols. </aside>
+<aside> N.B. Our ATLAS informants have been working under the guise of maintenance and laboratory technician staff, and have now been compromised. If you must say your goodbyes, you are advised to do so as promptly as possible prior to their Retirement. Please ensure any attempts at communication with field operatives are conducted anonymously through the canonical SIPHO{N|r} encoded protocols. </aside>
 
 - It is known amongst us ARIA|DNE members that the 7-billion year old interstellar comet, discovered with the ATLAS survey telescope on 1 July, 2025, does indeed contain life. 
 
