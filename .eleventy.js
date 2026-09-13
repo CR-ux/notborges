@@ -5,7 +5,7 @@ const markdownItFootnote = require("markdown-it-footnote");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ "intranet/images": "images" });
-
+  eleventyConfig.addPassthroughCopy("assets/fonts");
   eleventyConfig.addCollection("papers", function (collection) {
     return collection.getFilteredByGlob("./intranet/papers/*.md");
   });
