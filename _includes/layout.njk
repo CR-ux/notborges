@@ -2,12 +2,20 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{ title or "Untitled Fragment" }} | The User Stories of notBorges</title>
+  <title>{{ title or "Untitled Fragment" }} | SIGNATURES. </title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="To Forgive The Characters: A Lexicomythographic Prodverb.">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap');
     @import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap');
+    
+    @font-face {
+        font-family: 'Hamartia';
+        src: url('../assets/fonts/Hamartia.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        font-size: xx-large;
+    }
 
     :root {
       --parchment: #f7f3e8;
@@ -26,7 +34,7 @@
     }
 
     body {
-      font-family: 'Crimson Text', serif;
+      font-family: 'Hamartia', sans-serif;
       background: var(--parchment);
       color: var(--ink);
       line-height: 1.6;
@@ -60,7 +68,7 @@
     }
 
     .journal-title {
-      font-family: 'Manufacturing Consent', serif;
+      font-family: 'Hamartia', sans-serif;
       font-size: 2.5rem;
       font-weight: 600;
       color: var(--shadow);
@@ -195,7 +203,7 @@
     }
 
     .access-notice h3 {
-      font-family: 'Source Serif Pro', serif;
+      font-family: 'Hamartia', sans-serif;
       margin-bottom: 1rem;
       color: #d4c4a8;
     }
@@ -211,7 +219,7 @@
     table {
       border-collapse: collapse;
       margin: 2rem auto; /* centers table */
-      font-family: 'Crimson Text', serif;
+      font-family: 'Hamartia', sans-serif;
       font-size: 1rem;
     }
 
@@ -252,7 +260,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      font-family: 'Source Serif Pro', serif;
+      font-family: 'Hamartia', sans-serif;
       font-weight: 600;
       color: var(--accent);
       font-size: 0.7rem;
