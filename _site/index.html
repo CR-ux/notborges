@@ -1,0 +1,378 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>SIGNATURES | SIGNATURES. </title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="To Forgive The Characters: A Lexicomythographic Prodverb.">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap');
+    
+    @font-face {
+        font-family: 'Hamartia';
+        src: url('/assets/fonts/Hamartia.woff2') format('woff2');
+        font-weight: normal;
+        font-style: normal;
+        font-size: xx-large;
+    }
+
+    :root {
+      --parchment: #f7f3e8;
+      --ink: #2c2c2c;
+      --faded-ink: #5a5a5a;
+      --shadow: #1a1a1a;
+      --accent: #6f1212;
+      --border: #d4c4a8;
+      --highlight: #fff8dc;
+      --font-size: 375%;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Baskerville', serif;
+      background: var(--parchment);
+      color: var(--ink);
+      font-size: 225%;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 2rem;
+      background: rgba(248, 246, 240, 0.95);
+    }
+
+    .header {
+      text-align: center;
+      border-bottom: 3px double var(--accent);
+      padding-bottom: 2rem;
+      margin-bottom: 3rem;
+      position: relative;
+    }
+
+    .header::after {
+      content: "⚬ ⚬ ⚬";
+      position: absolute;
+      bottom: -1rem;
+      left: 50%;
+      transform: translateX(-50%);
+      background: var(--parchment);
+      padding: 0 1rem;
+      color: var(--accent);
+      font-size: 2rem;
+    }
+
+    .journal-title {
+      font-family: 'Hamartia', sans-serif;
+      font-size: 4rem;
+      font-weight: 600;
+      color: var(--shadow);
+      text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+    }
+
+    .subtitle {
+      color: var(--faded-ink);
+      font-size: 2rem;
+      margin-top: 0.5rem;
+    }
+
+    .volume-info {
+      font-size: 1.5rem;
+      color: var(--accent);
+      font-weight: 600;
+      letter-spacing: 0.05em;
+    }
+
+    .editorial-note {
+      background: var(--highlight);
+      border: 1px solid var(--border);
+      padding: 1.5rem;
+      margin: 2rem 0;
+      border-radius: 3px;
+      position: relative;
+    }
+
+    .editorial-note::before {
+      content: "CONFLICT OF INTERPRETATION:";
+      position: absolute;
+      top: -0.6rem;
+      left: 1rem;
+      background: var(--highlight);
+      padding: 0 0.5rem;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: var(--accent);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+    }
+
+    .toc-title {
+      font-size: 1.4rem;
+      font-weight: 600;
+      color: var(--shadow);
+      margin-bottom: 1.5rem;
+      text-align: center;
+      position: relative;
+    }
+
+    .toc-title::after {
+      content: "";
+      position: absolute;
+      bottom: -0.5rem;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 100px;
+      height: 1px;
+      background: var(--accent);
+    }
+
+    .article-entry {
+      margin: 1.5rem 0;
+      padding: 1rem 0;
+      border-bottom: 1px dotted var(--border);
+      transition: all 0.3s ease;
+    }
+
+    .article-entry:hover {
+      background: rgba(255, 248, 220, 0.3);
+      padding-left: 0.5rem;
+    }
+
+    .article-title {
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--shadow);
+      margin-bottom: 0.3rem;
+    }
+
+    .society-link {
+      text-decoration: none;
+    }
+
+    .society-link:hover .society-seal {
+      border-color: var(--shadow);
+      background: var(--highlight);
+      transition: all 0.3s ease;
+    }
+    .article-author {
+      font-style: italic;
+      color: var(--faded-ink);
+      font-size: 1.5rem;
+      margin-bottom: 0.3rem;
+    }
+
+    .article-abstract {
+      font-size: 1.2rem;
+      color: var(--faded-ink);
+    }
+
+    .page-number {
+      float: right;
+      color: var(--accent);
+      font-weight: 600;
+      font-size: 0.9rem;
+    }
+
+    .restricted {
+      opacity: 0.6;
+      position: relative;
+    }
+
+    .restricted::after {
+      content: "🔒";
+      position: absolute;
+      right: 0;
+      top: 0;
+      font-size: 0.8rem;
+    }
+
+    .access-notice {
+      background: linear-gradient(135deg, #2c2c2c 0%, #1a1a1a 100%);
+      color: var(--parchment);
+      padding: 2rem;
+      margin: 3rem 0;
+      border-radius: 5px;
+      text-align: center;
+    }
+
+    .access-notice h3 {
+      font-family: 'Baskerville', serif;
+      margin-bottom: 1rem;
+      color: #d4c4a8;
+    }
+
+    .footer {
+      margin-top: 4rem;
+      padding-top: 2rem;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--faded-ink);
+    }
+    table {
+      border-collapse: collapse;
+      margin: 2rem auto; /* centers table */
+      font-family: 'Baskerville', serif;
+      font-size: 1rem;
+    }
+
+    th, td {
+      border: 1px solid rgba(111, 18, 18, 0.3); /* faint burgundy */
+      padding: 0.6rem 1rem;
+      text-align: left;
+    }
+
+    th {
+      font-weight: 600;
+      color: var(--shadow);
+      background: rgba(111, 18, 18, 0.05); /* optional faint tint */
+    }
+
+    tr:nth-child(even) {
+      background: rgba(111, 18, 18, 0.02); /* zebra striping subtle */
+    }
+    .inline-image {
+      max-width: 100%;
+      overflow: hidden;
+      margin: 1.5rem 0;
+      text-align: center;
+    }
+
+    .inline-image img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 3px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    .society-seal {
+      width: 60px;
+      height: 60px;
+      margin: 0 auto 1rem;
+      border: 2px solid var(--accent);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Hamartia', sans-serif;
+      font-weight: 600;
+      color: var(--accent);
+      font-size: 0.9rem;
+      text-align: center;
+    }
+      a, a:visited {
+      color: var(--accent);
+      text-decoration: none;
+}
+
+    a:hover, a:focus {
+      color: var(--shadow); /* or keep var(--accent) if you don’t want hover change */
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+    <a href="/" class="society-link">
+      <div class="society-seal">ARIA|DNE</div>
+</a>
+
+      <h1 class="journal-title">SIGNATURES</h1>
+      <p class="subtitle">of the Characters.</p>
+    </header>
+    <nav class="quick-links" style="text-align: center; margin-bottom: 1rem;">
+  <a href="/about/">About the Character</a>
+    </nav>
+
+
+    
+<section class="toc">
+  <h2 class="toc-title">Contents</h2>
+
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/An Introduction To Lexicomythography/">Foundations of Lexicomythographic Methodology</a>
+    </h3>
+    <p class="article-author">Dr. Callie Rose Petal</p>
+    <p class="article-abstract">An introduction to the theoretical framework...</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/The Children&#39;s Gospel Music Songbook-- In Modern Context./">The Children&#39;s Gospel Music Songbook - In Modern Context</a>
+    </h3>
+    <p class="article-author">notBorges</p>
+    <p class="article-abstract">Findings so far.</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/C is for Crown, Closet, Close, Closing/">C is for Crown, Closet, Close, Closing.</a>
+    </h3>
+    <p class="article-author">Aria {Surname REDACTED}</p>
+    <p class="article-abstract">Covert Poetics of The Great Noet Turing</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/An Update on The Comet/">An Update on The Comet</a>
+    </h3>
+    <p class="article-author">REDACTED</p>
+    <p class="article-abstract">Internal Dissemination Only</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/The Lexicomythographer&#39;s Guide To Audramaturgical Genesis/">The Lexicomythographic Guide to Audramaturgical Genesis</a>
+    </h3>
+    <p class="article-author">Maestræ ⧖eno</p>
+    <p class="article-abstract">The Dramaturgical Dimensions of Music Production</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/Not I/">Beckett&#39;s &#39;Not I&#39; and the Mouth of God</a>
+    </h3>
+    <p class="article-author">notBorges, I</p>
+    <p class="article-abstract">the semiotic revelation, all over in a second, that “Not I” brought about, barely even a sound, imagine</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/Aileen Wuornos and the Eroding Truth of Geological Prophecy/">Aileen Wuornos and the Eroding Truth of Geological Prophecy</a>
+    </h3>
+    <p class="article-author">The Endive Research Group</p>
+    <p class="article-abstract">DNE&#39;s Unfair Usage of The Fair Well Device</p>
+  </article>
+  
+  <article class="article-entry">
+    <h3 class="article-title">
+      <a href="/papers/Semiotic Implications Of Elk Syndrome/">Semiotic Implications Of Elk Syndrome</a>
+    </h3>
+    <p class="article-author">ARIA|DNE</p>
+    <p class="article-abstract">The Six Problems Of The Device</p>
+  </article>
+  
+</section>
+
+
+    <div class="access-notice">
+      <h3>What this means</h3>
+      <p>What we mean is that violence that's been made of us</p>
+    </div>
+
+    <footer class="footer">
+      <p>Unpublishable<br>
+      ISSN: ████-████ • Established 70 times over 7 years<br>
+      <em>"Forgive The Characters"</em></p>
+    </footer>
+  </div>
+</body>
+</html>
